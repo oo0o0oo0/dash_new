@@ -1,6 +1,6 @@
 ---
 title: "NYCTaxi"
-author: "김건우(202115782)"
+author: "김건우"
 format: dashboard
 execute: 
   enabled: true
